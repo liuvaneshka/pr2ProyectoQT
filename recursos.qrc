@@ -1,0 +1,67 @@
+<RCC>
+    <qresource prefix="/">
+        <file>formato_factura.html</file>
+        <file>Icons/Add.png</file>
+        <file>Icons/App.png</file>
+        <file>Icons/Archive.png</file>
+        <file>Icons/Audio Disk.png</file>
+        <file>Icons/Bold.png</file>
+        <file>Icons/Calendar.png</file>
+        <file>Icons/Cancel.png</file>
+        <file>Icons/Check.png</file>
+        <file>Icons/Copy.png</file>
+        <file>Icons/Cut.png</file>
+        <file>Icons/Delete.png</file>
+        <file>Icons/Download.png</file>
+        <file>Icons/Edit.png</file>
+        <file>Icons/Favorites.png</file>
+        <file>Icons/Find.png</file>
+        <file>Icons/Flash Disk.png</file>
+        <file>Icons/Folder.png</file>
+        <file>Icons/Forward.png</file>
+        <file>Icons/Globe.png</file>
+        <file>Icons/Hard Disk.png</file>
+        <file>Icons/Help.png</file>
+        <file>Icons/Information.png</file>
+        <file>Icons/Italic.png</file>
+        <file>Icons/Key.png</file>
+        <file>Icons/Log Out.png</file>
+        <file>Icons/Mail.png</file>
+        <file>Icons/Negative.png</file>
+        <file>Icons/New.png</file>
+        <file>Icons/Next.png</file>
+        <file>Icons/Open.png</file>
+        <file>Icons/Paste.png</file>
+        <file>Icons/Pause.png</file>
+        <file>Icons/Picture.png</file>
+        <file>Icons/Play.png</file>
+        <file>Icons/Positive.png</file>
+        <file>Icons/Presentation.png</file>
+        <file>Icons/Preview.png</file>
+        <file>Icons/Previous.png</file>
+        <file>Icons/Print.png</file>
+        <file>Icons/Properties.png</file>
+        <file>Icons/qtcreator.png</file>
+        <file>Icons/Redo.png</file>
+        <file>Icons/Refresh.png</file>
+        <file>Icons/Remove.png</file>
+        <file>Icons/Rename.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/Search.png</file>
+        <file>Icons/Send.png</file>
+        <file>Icons/Settings.png</file>
+        <file>Icons/Stock Index Down.png</file>
+        <file>Icons/Stock Index Up.png</file>
+        <file>Icons/Stop.png</file>
+        <file>Icons/Synchronize.png</file>
+        <file>Icons/TextDocument.png</file>
+        <file>Icons/Underline.png</file>
+        <file>Icons/Undo.png</file>
+        <file>Icons/Upload.png</file>
+        <file>Icons/User.png</file>
+        <file>Icons/Zoom In.png</file>
+        <file>Icons/Zoom Out.png</file>
+        <file>Images/rain1280_1024.jpg</file>
+        <file>Images/main.jpg</file>
+    </qresource>
+</RCC>
